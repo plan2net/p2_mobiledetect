@@ -1,0 +1,25 @@
+TODO.txt
+
+# TODO:
+- add more TS-Conditions on devices like bots, computers and more as provided by the mobiledetect library
+- add composer json
+- get latest mobiledetect lib via composer
+
+
+# DONE:
++ GET latest mobiledetect Version lib - 2.8.16
+	see https://github.com/serbanghita/Mobile-Detect
++ CONFIGURE latest mobiledetect Version lib - 2.8.16 and remove old one-
++ EXT Version in ext_emconf.php: sync with mobiledetect Version from https://github.com/serbanghita/Mobile-Detect/
++ Change t3lib_div Calls in ext_localconf.php for 6.2 Compliance
++ add Docu: Install, Update, Configure Usage
+
+
+
+
+
+
+
+
+
+

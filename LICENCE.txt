@@ -1,0 +1,14 @@
+LICENCE.txt
+
+This Extension is build on the shoulders of giants
+and especially based on the work of:
+
+- Serban Ghita, Nick Ilyin and contributors see
+	MIT License - see: https://github.com/serbanghita/Mobile-Detect/blob/master/LICENSE.txt
+and
+- Alexander Tretyak (TYPO3 Integration)
+	GPL - see: https://github.com/TYPO3-svn-archive/px_mobiledetect
+
+
+
+
