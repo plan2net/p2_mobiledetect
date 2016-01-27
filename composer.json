@@ -1,0 +1,8 @@
+{
+	"name": "plan2net/mobiledetect",
+	"description": "Mobile Device Detection - additional TYPO3-Conditions for SmartPhones, Tablets, Computer",
+	"require": {
+	},
+	"type": "typo3-cms-extension",
+	"version": "1.0.0"
+}
