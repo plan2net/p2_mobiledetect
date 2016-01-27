@@ -5,7 +5,7 @@ namespace Plan2net\MobileDetect;
 use \TYPO3\CMS\Core\Utility\ExtensionManagementUtility;
 
 /**
- * Class UserAgent
+ * Class Detect
  *
  * @package Plan2net\MobileDetect
  */
