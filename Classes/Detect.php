@@ -18,7 +18,7 @@ class Detect {
 	/**
 	 * @param array $parameters
 	 * @param null $parent
-	 * @return string
+	 * @return string|null
 	 */
 	public function getMobileDeviceType($parameters, $parent = NULL) {
 		/** @var \Detection\MobileDetect $mobileDetection */
